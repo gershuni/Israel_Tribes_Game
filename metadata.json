@@ -1,0 +1,5 @@
+{
+  "name": "Twelve Tribes Map Game",
+  "description": "An interactive educational game to learn the territories of the Tribes of Israel. Match the tribe names to their regions on the map.",
+  "requestFramePermissions": []
+}
